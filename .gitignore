@@ -25,3 +25,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# user programs
+user/test_proc
+user/test_thread
